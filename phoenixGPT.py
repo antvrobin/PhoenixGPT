@@ -1,9 +1,7 @@
 from objectionpy import preset, enums, assets, objection
 from objectionpy.frames import *
 
-scene = objection.Scene(objection.Options(
-    #dialogueBox = enums.PresetDialogueBox.TRILOGY,
-))
+scene = objection.Scene()
 
 def frameWithCharacterPose(characterChosen, whatTheySay, pose, bubbleChosen):
     scene.frames.append(Frame(
