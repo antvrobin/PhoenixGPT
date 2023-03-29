@@ -4,7 +4,8 @@ A Python &amp; ChatGPT prompt combo that allows you to easily make objection.lol
 # Example of a Finished Case:
 Video (Click It)
 
-[![Why Was 6 Afraid of 7? (objection.lol)](https://img.youtube.com/vi/i8r_RROfaz8/0.jpg)](https://www.youtube.com/watch?v=i8r_RROfaz8 "Why Was 6 Afraid of 7? (objection.lol)")
+[![Why Was 6 Afraid of 7? (objection.lol)](https://img.youtube.com/vi/i8r_RROfaz8/0.jpg)](https://www.youtube.com/watch?v=i8r_RROfaz8 "Why Was 6 Afraid of 7? (objection.lol)")  
+Why was 6 Afraid of 7?
 
 # How to Use
 1. Copy and paste the prompt into ChatGPT.
