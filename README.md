@@ -20,7 +20,7 @@ Why was 6 Afraid of 7?
 
 6. Run the code.
 
-7. Sometimes, there will be errors. They're usually quite easy to solve. The error messages are quite descriptive.
+7. Sometimes, there will be errors. They're usually quite easy to solve. The error messages are quite descriptive. You can usually plug the error back into ChatGPT and it will tell you what to do.
 
 8. In the same directory that you ran the code in, there should now be a file called scene.objection.
 
