@@ -1,5 +1,5 @@
 # PhoenixGPT
-A Python &amp; ChatGPT prompt combo that allows you to easily make objection.lol cases.
+A Python &amp; ChatGPT prompt combo that allows you to easily make objection.lol scenes.
 
 # Example of a Finished Case:
 Video (Click It)
