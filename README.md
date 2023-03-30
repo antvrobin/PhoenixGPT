@@ -8,6 +8,8 @@ Video (Click It)
 Why was 6 Afraid of 7?
 
 # How to Use
+The prompt works best with GPT-4, however, the default 3.5 model should work as well.  
+
 1. Copy and paste the prompt into ChatGPT.
 
 2. Put in your new topic by replacing "[REPLACE THIS WITH YOUR TOPIC]"
